@@ -16,9 +16,7 @@
 build/_vendor/pkg
 
 #*
-.#*
-*#
-*~
+
 .project
 .settings
 
