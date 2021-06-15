@@ -1,0 +1,21 @@
+{
+  "name": "ethbank",
+  "version": "1.0.0",
+  "description": "ethBank automation server",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Salman Haider",
+  "license": "ISC",
+  "dependencies": {
+    "ethereumjs-tx": "^2.1.2",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "node-cron": "^2.0.3",
+    "web3": "^1.2.7"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
