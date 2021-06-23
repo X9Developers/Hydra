@@ -1,5 +1,5 @@
 ## Hydra Testnet
-The goal of Hydra Smart Chain is to bring programmability and interoperability to Stakenet. In order to embrace the existing popular community and advanced technology, it will bring huge benefits by staying compatible with all the existing smart contracts on Ethereum and Ethereum tooling. And to achieve that, the easiest solution is to develop based on go-ethereum fork, as we respect the great work of Ethereum very much.
+The goal of Hydra Smart Chain is to bring programmability and interoperability to Stakenet. In order to embrace the existing defi community, we benefit from the huge benefits by staying compatible with all the existing smart contracts on Ethereum and Ethereum tooling. And to achieve that, the easiest solution is to develop based on go-ethereum fork, and we greatly respect the work of Ethereum.
 
 Hydra Smart Chain starts its development based on go-ethereum fork. So you may see many toolings, binaries and also docs are based on Ethereum ones, such as the name “geth”.
 
